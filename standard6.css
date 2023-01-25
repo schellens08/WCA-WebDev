@@ -1,0 +1,133 @@
+nav {
+    background-color: rgb(4, 0, 2);
+    padding: .1em;
+    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+html, body {
+  
+    font-size: 3vh;
+    height: 100vh;
+    overflow: visible;
+    background-image:url("images/skulls1.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+   
+   
+}
+
+a {
+
+
+    color:rgb(249, 54, 158);
+    }
+    .btn {
+        font-family: fantasy, copperplate;
+        font-display: bold;
+        border: none;
+        background-color: inherit;
+        padding: 10px 75px;
+        font-size: 25px;
+        cursor: pointer;
+        display: inline-block;
+       
+       }
+
+
+/* pink */
+.home{
+    color: red;
+}
+
+.home:hover {
+    background: #08000330;
+    color: rgb(5, 5, 5);
+}
+
+
+/* pink */
+.dance {
+    color: red;
+}
+
+.dance
+:hover {
+    background-color: #171717;
+    color: rgb(16, 14, 14);
+}
+
+/* pink */
+.drink {
+    color: red;
+}
+
+.dance:hover {
+    background: #08000330;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.drink{
+    color: red;
+}
+
+.drink:hover {
+    background: #0d080025;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.music{
+    color: red;
+}
+
+.music:hover {
+    background: #04000020;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.rave {
+    color: red;
+}
+
+.rave:hover {
+    background: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.danger {
+    color: red;
+}
+
+.danger:hover {
+    background: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.contact {
+    color: red;
+}
+
+.contact:hover {
+    background-color: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+.big-red-text {
+    color: red;
+    font-family: fantasy, copperplate;
+        font-display: bold;
+        border: none;
+        padding: 10px 75px;
+        font-size: 40px;
+        cursor: pointer;
+        display: inline-block;
+        text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  }

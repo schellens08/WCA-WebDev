@@ -1,0 +1,125 @@
+nav {
+    background-color: rgb(4, 0, 2);
+    padding: .1em;
+    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+html, body {
+    font-family: Roboto, cosmic sans-serif;
+    font-size: 3vh;
+    height: 100vh;
+    overflow: visible;
+    background-image:url("images/neon3.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+   
+   
+}
+
+a {
+
+
+    color:rgb(249, 54, 158);
+    }
+    .btn {
+        font-family: fantasy, copperplate;
+        font-display: bold;
+        border: none;
+        background-color: inherit;
+        padding: 10px 75px;
+        font-size: 25px;
+        cursor: pointer;
+        display: inline-block;
+       
+       }
+
+
+/* pink */
+.home{
+    color: rgb(46, 253, 56);
+}
+
+.home:hover {
+    background: #08000330;
+    color: rgb(5, 5, 5);
+}
+
+
+/* pink */
+.dance {
+    color: rgb(46, 253, 56);
+}
+
+.dance
+:hover {
+    background-color: #171717;
+    color: rgb(16, 14, 14);
+}
+
+/* pink */
+.drink {
+    color: rgb(46, 253, 56);
+}
+
+.dance:hover {
+    background: #08000330;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.drink{
+    color: rgb(46, 253, 56);
+}
+
+.drink:hover {
+    background: #0d080025;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.music{
+    color: rgb(46, 253, 56);
+}
+
+.music:hover {
+    background: #04000020;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.rave {
+    color: rgb(46, 253, 56);
+}
+
+.rave:hover {
+    background: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.danger {
+    color: rgb(46, 253, 56);
+}
+
+.danger:hover {
+    background: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+/* pink */
+.contact {
+    color: rgb(46, 253, 56);
+}
+
+.contact:hover {
+    background-color: #10010019;
+    color: rgb(5, 5, 5);
+}
+
+img {
+    padding: 40px;
+  }
